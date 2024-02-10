@@ -1,2 +1,3 @@
 Contenido del documento 2
 Contenido nuevo del documento2.txt
+Cambios en el documento2.txt
